@@ -1,7 +1,7 @@
 
 # surface-trafficking
 
-##### Python code for May and Gaudet (2024), Surface delivery quantification reveals distinct trafficking efficiencies among clustered protocadherin isoforms. These data are also available on [Zenodo](10.5281/zenodo.13345292).
+##### Python code for May and Gaudet (2024), *Surface delivery quantification reveals distinct trafficking efficiencies among clustered protocadherin isoforms*. These data are also available on [Zenodo](10.5281/zenodo.13345292).
 
 ***
 
