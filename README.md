@@ -9,4 +9,4 @@
 #### Calculations (in the Calculations folder):
 ##### There is a micro_analysis.yml file with the environemnt for all the analysis.
 ##### The images_to_csv.ipynb notebook that takes the .czi microscope file, along with the sample.txt file and labels.npy mask file from the segmentation output, and calculates the average fluorescence values for each cell. The output is a .csv file (in the out folder) for each experiment.
-#####
+##### The original .csv files containing the average fluorescence values for the experiments conducted for the manuscript are in the out folder.
