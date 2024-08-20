@@ -5,7 +5,7 @@
 
 ### Important files:
 #### - Segmentation (in the Segmentation folder):
-There is a segmentation '.yml' file with the environment for the segmentation notebook. A GPU is also required to run this notebook.
+There is a segmentation '.yml' file with the environment for the segmentation notebook. A GPU is also required to run this notebook.  
 The segmentation notebook takes '.czi' microscope files as input, as well as a user-provided list of samples. For our experiments, the '.czi' files contain 24 positions (8 samples with 3 fields of view each) and 3 channels, one of which is brightfield. The notebook produces a segmentation mask based on the brightfield channel ('labels.npy') and a '.txt' file containing the sample names, both of which are used as input for the calculations notebooks.
 #### - Calculations (in the Calculations folder):
 There is a 'micro_analysis.yml' file with the environemnt for all the analysis.
