@@ -7,6 +7,8 @@
 
 ### File descriptions
 
+- Raw microscopy data files are available on [Zenodo](10.5281/zenodo.13345292).
+
 ##### in the `segmentation_notebooks` folder:
 
 - There is a segmentation `.yml` file with the environment for the segmentation notebook. A GPU is required to run this notebook.
